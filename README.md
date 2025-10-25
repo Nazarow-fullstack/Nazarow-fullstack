@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=225&section=header&text=Frontend%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Nazarov%20Yusuf&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=225&section=header&text=Fullstack%20Developer&fontSize=40&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Nazarov%20Yusuf&descSize=20&descAlign=18&descAlignY=58&animation=twinkling" />
 
 ## Hi 👋, I'm Yusuf Nazarov  
 
