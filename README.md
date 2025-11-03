@@ -49,11 +49,15 @@ I'm a **Full-Stack Engineer** who architects and builds scalable, end-to-end web
 
 ### 🏆 Projects & Achievements
 
-- **📸 Instagram Clone**: Full-stack replica architected with **Next.js** on the frontend and a **FastAPI + Firebase** backend. Features secure auth, real-time chat, i18n, and advanced image processing.
-- **🛠️ FixIt Platform**: A crowdsourced problem-solving hub built with a **React** frontend and a **Django/DRF** backend. Implemented AI-powered suggestions and real-time WebSocket communication.
-- **🤖 Telegram + Azure Bot**: An automation tool using a **Python** backend deployed on Azure Functions to process and manage Excel data via Telegram commands.
-- **🎨 Portfolio**: A high-performance personal website built with **Next.js** for SSR and integrated with a headless CMS (**Sanity/Strapi**) for dynamic content management.
-- **💡 Open Source**: Contributed to [Project Name] by optimizing data-fetching hooks and reducing backend query times by 15%.
+- 📸 **Instagram Clone | Full-Stack Social Media Application**: Architected a full-stack replica using **Next.js** for a high-performance frontend and a hybrid backend of **FastAPI** and **Firebase**. Engineered features including secure user authentication, real-time chat with WebSockets, i18n, and advanced server-side image processing.
+
+- 🛠️ **Handify (FixIt) | Full-Stack Crowdsourcing Platform**: Developed a problem-solving hub with a **React** frontend and a robust **Django/DRF** backend to manage user interactions. Implemented AI-powered suggestions and integrated real-time chat functionality using WebSockets.
+
+- 🗺️ **EduFinder | Geospatial Search Application**: Built an interactive map interface using **React** and **Leaflet** to visualize and filter institutions. Designed and deployed a high-performance **Python** backend to serve geospatial data and handle complex, location-based queries via a RESTful API.
+
+- 🛒 **Alif Shop Clone | Full-Stack E-commerce Application**: Engineered a complete e-commerce storefront with **React** and **TypeScript**, featuring dynamic filtering and state management. Developed the backend API using **FastAPI** and **SQLAlchemy** to manage product catalogs and orders with a **PostgreSQL** database.
+
+- 💡 **Open Source**: Contributed to notion by optimizing data-fetching hooks and reducing backend query times by 15%.
 
 ---
 
@@ -71,4 +75,3 @@ I'm a **Full-Stack Engineer** who architects and builds scalable, end-to-end web
 [![Telegram](https://img.shields.io/badge/-@Yusuf_Nazar0v-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yusuf_Nazar0v)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-nazarov-7b2872341/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufnazarow20090505@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nazarow-fullstack)
